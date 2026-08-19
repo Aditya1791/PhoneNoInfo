@@ -7,11 +7,11 @@
   **Advanced Information Gathering & OSINT Reconnaissance Framework for Phone Numbers**
 
   <p align="center">
-    <a href="https://github.com/sundowndev/phoneinfoga/actions"><img src="https://img.shields.io/github/actions/workflow/status/sundowndev/phoneinfoga/build.yml?branch=master&style=flat-square&logo=github" alt="Build Status" /></a>
-    <a href="https://goreportcard.com/report/github.com/sundowndev/phoneinfoga/v2"><img src="https://goreportcard.com/badge/github.com/sundowndev/phoneinfoga/v2?style=flat-square" alt="Go Report Card" /></a>
-    <a href="https://hub.docker.com/r/sundowndev/phoneinfoga"><img src="https://img.shields.io/docker/pulls/sundowndev/phoneinfoga.svg?style=flat-square&logo=docker" alt="Docker Pulls" /></a>
-    <a href="https://github.com/sundowndev/phoneinfoga/releases"><img src="https://img.shields.io/github/v/release/sundowndev/phoneinfoga?style=flat-square&color=blue" alt="Latest Release" /></a>
-    <a href="./LICENSE"><img src="https://img.shields.io/github/license/sundowndev/phoneinfoga?style=flat-square&color=green" alt="License: GPL v3" /></a>
+    <a href="https://github.com/Aditya1791/PhoneNoInfo/actions"><img src="https://img.shields.io/github/actions/workflow/status/Aditya1791/PhoneNoInfo/build.yml?branch=master&style=flat-square&logo=github" alt="Build Status" /></a>
+    <a href="https://goreportcard.com/report/github.com/Aditya1791/PhoneNoInfo/v2"><img src="https://goreportcard.com/badge/github.com/Aditya1791/PhoneNoInfo/v2?style=flat-square" alt="Go Report Card" /></a>
+    <a href="https://hub.docker.com/r/Aditya1791/PhoneNoInfo"><img src="https://img.shields.io/docker/pulls/Aditya1791/PhoneNoInfo.svg?style=flat-square&logo=docker" alt="Docker Pulls" /></a>
+    <a href="https://github.com/Aditya1791/PhoneNoInfo/releases"><img src="https://img.shields.io/github/v/release/Aditya1791/PhoneNoInfo?style=flat-square&color=blue" alt="Latest Release" /></a>
+    <a href="./LICENSE"><img src="https://img.shields.io/github/license/Aditya1791/PhoneNoInfo?style=flat-square&color=green" alt="License: GPL v3" /></a>
   </p>
 
   ### 🌐 Connect & Socials
@@ -20,7 +20,7 @@
     <a href="https://github.com/Aditya1791" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
-    <a href="https://linkedin.com/aditya-ranjan-swain" target="_blank">
+    <a href="https://linkedin.com/in/aditya-ranjan-swain" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://twitter.com/Monkey_D_Adi" target="_blank">
