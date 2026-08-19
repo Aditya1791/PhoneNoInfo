@@ -7,11 +7,11 @@
   **Advanced Information Gathering & OSINT Reconnaissance Framework for Phone Numbers**
 
   <p align="center">
-    <a href="https://github.com/Aditya1791/phoneinfoga/actions"><img src="https://img.shields.io/github/actions/workflow/status/Aditya1791/phoneinfoga/build.yml?branch=main&style=flat-square&logo=github" alt="Build Status" /></a>
-    <a href="https://goreportcard.com/report/github.com/Aditya1791/phoneinfoga/v2"><img src="https://goreportcard.com/badge/github.com/Aditya1791/phoneinfoga/v2?style=flat-square" alt="Go Report Card" /></a>
-    <a href="https://hub.docker.com/r/aditya1791/phoneinfoga"><img src="https://img.shields.io/docker/pulls/aditya1791/phoneinfoga.svg?style=flat-square&logo=docker" alt="Docker Pulls" /></a>
-    <a href="https://github.com/Aditya1791/phoneinfoga/releases"><img src="https://img.shields.io/github/v/release/Aditya1791/phoneinfoga?style=flat-square&color=blue" alt="Latest Release" /></a>
-    <a href="./LICENSE"><img src="https://img.shields.io/github/license/Aditya1791/phoneinfoga?style=flat-square&color=green" alt="License: GPL v3" /></a>
+    <a href="https://github.com/Aditya1791/PhoneNoInfo/actions"><img src="https://img.shields.io/github/actions/workflow/status/Aditya1791/PhoneNoInfo/build.yml?branch=main&style=flat-square&logo=github" alt="Build Status" /></a>
+    <a href="https://goreportcard.com/report/github.com/Aditya1791/PhoneNoInfo/v2"><img src="https://goreportcard.com/badge/github.com/Aditya1791/PhoneNoInfo/v2?style=flat-square" alt="Go Report Card" /></a>
+    <a href="https://hub.docker.com/r/Aditya1791/PhoneNoInfo"><img src="https://img.shields.io/docker/pulls/Aditya1791/PhoneNoInfo.svg?style=flat-square&logo=docker" alt="Docker Pulls" /></a>
+    <a href="https://github.com/Aditya1791/PhoneNoInfo/releases"><img src="https://img.shields.io/github/v/release/Aditya1791/PhoneNoInfo?style=flat-square&color=blue" alt="Latest Release" /></a>
+    <a href="./LICENSE"><img src="https://img.shields.io/github/license/Aditya1791/PhoneNoInfo?style=flat-square&color=green" alt="License: GPL v3" /></a>
   </p>
 
   ### 🌐 Connect & Socials
@@ -20,29 +20,29 @@
     <a href="https://github.com/Aditya1791" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
-    <a href="https://linkedin.com" target="_blank">
+    <a href="https://linkedin.com/in/aditya-ranjan-swain" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://twitter.com" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+    <a href="https://twitter.com/Monkey_D_Adi" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=black" alt="Twitter" />
     </a>
-    <a href="https://facebook.com" target="_blank">
+    <a href="https://facebook.com/Aditya1791" target="_blank">
       <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
     </a>
-    <a href="mailto:contact@phoneinfoga.crvx.fr" target="_blank">
+    <a href="mailto:swainaditya85@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
 
   <p align="center">
-    <a href="https://aditya1791.github.io/phoneinfoga/"><strong>Explore the Docs »</strong></a>
+    <a href="https://aditya1791.github.io/PhoneNoInfo/"><strong>Explore the Docs »</strong></a>
     <br />
     <br />
-    <a href="https://petstore.swagger.io/?url=https://raw.githubusercontent.com/Aditya1791/phoneinfoga/main/web/docs/swagger.yaml">API Reference</a>
+    <a href="https://petstore.swagger.io/?url=https://raw.githubusercontent.com/Aditya1791/PhoneNoInfo/main/web/docs/swagger.yaml">API Reference</a>
     ·
-    <a href="https://github.com/Aditya1791/phoneinfoga/issues">Report Bug</a>
+    <a href="https://github.com/Aditya1791/PhoneNoInfo/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Aditya1791/phoneinfoga/discussions">Request Feature</a>
+    <a href="https://github.com/Aditya1791/PhoneNoInfo/discussions">Request Feature</a>
     ·
     <a href="https://medium.com/@SundownDEV/phone-number-scanning-osint-recon-tool-6ad8f0cac27b">Read Blog Post</a>
   </p>
