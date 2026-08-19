@@ -33,7 +33,7 @@ jobs:
           node-version: 20.x
 
       - name: Building static assets
-        run: (cd web/client && yarn install && yarn build)
+        run: (cd web/client && npm install --legacy-peer-deps && npm run build)
 
       - name: Enforce Go formatted code
         run: |

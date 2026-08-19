@@ -3,9 +3,8 @@ FROM node:20.9.0-alpine AS client_builder
 WORKDIR /app
 
 COPY ./web/client .
-RUN yarn install
-RUN yarn build
-RUN yarn cache clean
+RUN npm install --legacy-peer-deps
+RUN npm run build
 
 FROM golang:1.20.6-alpine AS go_builder
 
