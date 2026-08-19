@@ -6,7 +6,7 @@ COPY ./web/client .
 RUN npm install --legacy-peer-deps
 RUN npm run build
 
-FROM golang:1.20.6-alpine AS go_builder
+FROM golang:1.26.6-alpine AS go_builder
 
 WORKDIR /app
 
