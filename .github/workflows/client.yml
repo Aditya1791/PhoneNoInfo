@@ -25,7 +25,7 @@ jobs:
     - name: Install & lint
       run: |
         cd web/client
-        yarn install --immutable
+        yarn install
         yarn lint
     - name: Build
       run: |

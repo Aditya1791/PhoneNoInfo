@@ -3,7 +3,7 @@ FROM node:20.9.0-alpine AS client_builder
 WORKDIR /app
 
 COPY ./web/client .
-RUN yarn install --immutable
+RUN yarn install
 RUN yarn build
 RUN yarn cache clean
 
