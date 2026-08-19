@@ -7,17 +7,17 @@
   **Advanced Information Gathering & OSINT Reconnaissance Framework for Phone Numbers**
 
   <p align="center">
-    <a href="https://github.com/sundowndev/phoneinfoga/actions"><img src="https://img.shields.io/github/actions/workflow/status/sundowndev/phoneinfoga/build.yml?branch=master&style=flat-square&logo=github" alt="Build Status" /></a>
-    <a href="https://goreportcard.com/report/github.com/sundowndev/phoneinfoga/v2"><img src="https://goreportcard.com/badge/github.com/sundowndev/phoneinfoga/v2?style=flat-square" alt="Go Report Card" /></a>
-    <a href="https://hub.docker.com/r/sundowndev/phoneinfoga"><img src="https://img.shields.io/docker/pulls/sundowndev/phoneinfoga.svg?style=flat-square&logo=docker" alt="Docker Pulls" /></a>
-    <a href="https://github.com/sundowndev/phoneinfoga/releases"><img src="https://img.shields.io/github/v/release/sundowndev/phoneinfoga?style=flat-square&color=blue" alt="Latest Release" /></a>
-    <a href="./LICENSE"><img src="https://img.shields.io/github/license/sundowndev/phoneinfoga?style=flat-square&color=green" alt="License: GPL v3" /></a>
+    <a href="https://github.com/Aditya1791/phoneinfoga/actions"><img src="https://img.shields.io/github/actions/workflow/status/Aditya1791/phoneinfoga/build.yml?branch=main&style=flat-square&logo=github" alt="Build Status" /></a>
+    <a href="https://goreportcard.com/report/github.com/Aditya1791/phoneinfoga/v2"><img src="https://goreportcard.com/badge/github.com/Aditya1791/phoneinfoga/v2?style=flat-square" alt="Go Report Card" /></a>
+    <a href="https://hub.docker.com/r/aditya1791/phoneinfoga"><img src="https://img.shields.io/docker/pulls/aditya1791/phoneinfoga.svg?style=flat-square&logo=docker" alt="Docker Pulls" /></a>
+    <a href="https://github.com/Aditya1791/phoneinfoga/releases"><img src="https://img.shields.io/github/v/release/Aditya1791/phoneinfoga?style=flat-square&color=blue" alt="Latest Release" /></a>
+    <a href="./LICENSE"><img src="https://img.shields.io/github/license/Aditya1791/phoneinfoga?style=flat-square&color=green" alt="License: GPL v3" /></a>
   </p>
 
   ### 🌐 Connect & Socials
 
   <p align="center">
-    <a href="https://github.com/sundowndev" target="_blank">
+    <a href="https://github.com/Aditya1791" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
     <a href="https://linkedin.com" target="_blank">
@@ -35,14 +35,14 @@
   </p>
 
   <p align="center">
-    <a href="https://sundowndev.github.io/phoneinfoga/"><strong>Explore the Docs »</strong></a>
+    <a href="https://aditya1791.github.io/phoneinfoga/"><strong>Explore the Docs »</strong></a>
     <br />
     <br />
-    <a href="https://petstore.swagger.io/?url=https://raw.githubusercontent.com/sundowndev/phoneinfoga/master/web/docs/swagger.yaml">API Reference</a>
+    <a href="https://petstore.swagger.io/?url=https://raw.githubusercontent.com/Aditya1791/phoneinfoga/main/web/docs/swagger.yaml">API Reference</a>
     ·
-    <a href="https://github.com/sundowndev/phoneinfoga/issues">Report Bug</a>
+    <a href="https://github.com/Aditya1791/phoneinfoga/issues">Report Bug</a>
     ·
-    <a href="https://github.com/sundowndev/phoneinfoga/discussions">Request Feature</a>
+    <a href="https://github.com/Aditya1791/phoneinfoga/discussions">Request Feature</a>
     ·
     <a href="https://medium.com/@SundownDEV/phone-number-scanning-osint-recon-tool-6ad8f0cac27b">Read Blog Post</a>
   </p>
@@ -129,18 +129,18 @@ Run PhoneInfoga immediately without installing any language runtimes:
 
 ```bash
 # Pull and run help
-docker run --rm -it sundowndev/phoneinfoga --help
+docker run --rm -it aditya1791/phoneinfoga --help
 
 # Run a CLI scan
-docker run --rm -it sundowndev/phoneinfoga scan -n "+14155552671"
+docker run --rm -it aditya1791/phoneinfoga scan -n "+14155552671"
 
 # Launch the Web GUI & REST API on port 5000
-docker run --rm -it -p 5000:5000 sundowndev/phoneinfoga serve
+docker run --rm -it -p 5000:5000 aditya1791/phoneinfoga serve
 ```
 
 ### 2. Pre-compiled Binary
 
-Download the latest binary release for your operating system from the [Releases Page](https://github.com/sundowndev/phoneinfoga/releases):
+Download the latest binary release for your operating system from the [Releases Page](https://github.com/Aditya1791/phoneinfoga/releases):
 
 ```bash
 # Extract and move to PATH (Linux/macOS)
@@ -157,7 +157,7 @@ Requirements: **Go 1.20+** and **Node.js 18+**
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/sundowndev/phoneinfoga.git
+git clone https://github.com/Aditya1791/phoneinfoga.git
 cd phoneinfoga
 
 # 2. Build web client
@@ -275,5 +275,5 @@ Please review our [Contributing Guidelines](./docs/contribute.md) and [Code of C
 Distributed under the **GNU General Public License v3.0**. See [`LICENSE`](./LICENSE) for more information.
 
 <div align="center">
-  <sub>Built with ❤️ by <a href="https://github.com/sundowndev">Sundowndev</a> and the Open Source Community.</sub>
+  <sub>Maintained with ❤️ by <a href="https://github.com/Aditya1791">Aditya1791</a> and the Open Source Community.</sub>
 </div>

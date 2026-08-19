@@ -1,10 +1,10 @@
 site_name: PhoneInfoga
-site_url: https://sundowndev.github.io/phoneinfoga
-repo_name: 'sundowndev/phoneinfoga'
-repo_url: 'https://github.com/sundowndev/phoneinfoga'
+site_url: https://aditya1791.github.io/phoneinfoga
+repo_name: 'Aditya1791/phoneinfoga'
+repo_url: 'https://github.com/Aditya1791/phoneinfoga'
 site_description: 'Advanced information gathering & OSINT tool for phone numbers.'
-site_author: 'Sundowndev'
-copyright: 'PhoneInfoga was developed by sundowndev and is licensed under GPL-3.0.'
+site_author: 'Aditya1791'
+copyright: 'PhoneInfoga is maintained by Aditya1791 and is licensed under GPL-3.0.'
 nav:
   - 'Home': index.md
   - 'Getting Started':
@@ -41,7 +41,7 @@ theme:
 extra:
   social:
     - icon: fontawesome/brands/github-alt
-      link: 'https://github.com/sundowndev/phoneinfoga'
+      link: 'https://github.com/Aditya1791/phoneinfoga'
 
 # Extensions
 markdown_extensions:

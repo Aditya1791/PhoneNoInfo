@@ -24,17 +24,17 @@
             <b-collapse id="nav-collapse" is-nav>
               <b-navbar-nav>
                 <b-nav-item
-                  href="https://github.com/sundowndev/phoneinfoga"
+                  href="https://github.com/Aditya1791/phoneinfoga"
                   target="_blank"
                   >GitHub</b-nav-item
                 >
                 <b-nav-item
-                  href="https://sundowndev.github.io/phoneinfoga/resources/"
+                  href="https://aditya1791.github.io/phoneinfoga/resources/"
                   target="_blank"
                   >Resources</b-nav-item
                 >
                 <b-nav-item
-                  href="https://sundowndev.github.io/phoneinfoga/"
+                  href="https://aditya1791.github.io/phoneinfoga/"
                   target="_blank"
                   >Documentation</b-nav-item
                 >
@@ -78,7 +78,7 @@
           <b-collapse id="nav-collapse" is-nav>
             <b-navbar-nav>
               <b-nav-item
-                href="https://github.com/sundowndev/phoneinfoga/releases"
+                href="https://github.com/Aditya1791/phoneinfoga/releases"
                 target="_blank"
                 >{{ config.appName }} {{ version }}</b-nav-item
               >

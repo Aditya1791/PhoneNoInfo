@@ -3,6 +3,7 @@ name: Docker Push latest
 on:
   push:
     branches:
+      - main
       - master
 
 jobs:
@@ -32,8 +33,8 @@ jobs:
         with:
           context: .
           push: true
-          tags: sundowndev/phoneinfoga:next
+          tags: ${{ secrets.DOCKER_USERNAME }}/phoneinfoga:next
           platforms: linux/amd64
 
       - name: Display new image digest
-        run: echo "sundowndev/phoneinfoga@${{ steps.docker_build.outputs.digest }}"
+        run: echo "${{ secrets.DOCKER_USERNAME }}/phoneinfoga@${{ steps.docker_build.outputs.digest }}"
